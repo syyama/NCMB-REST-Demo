@@ -1,4 +1,4 @@
-#PhotonTestProject
+#NCMB-REST-Demo
 
 NCMB-REST-Demoは [ニフティクラウド mobile backend](http://mb.cloud.nifty.com/) をREST APIを叩くための一番簡単なデモプロジェクトです  
 
